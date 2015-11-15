@@ -1,0 +1,19 @@
+{
+  "name": "nodesynth",
+  "version": "1.0.0",
+  "description": "functional pcm generation",
+  "main": "synth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxBittker/nodeSynth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxBittker/nodeSynth/issues"
+  },
+  "homepage": "https://github.com/MaxBittker/nodeSynth#readme"
+}
